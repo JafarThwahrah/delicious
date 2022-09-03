@@ -25,13 +25,6 @@ function Veggie() {
       localStorage.setItem("veggie", JSON.stringify(array));
       setVeggie(array);
     }
-
-
-
-
-
-
-    
   };
 
   return (
